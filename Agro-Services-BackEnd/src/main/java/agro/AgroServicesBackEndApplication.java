@@ -1,0 +1,13 @@
+package agro;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AgroServicesBackEndApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AgroServicesBackEndApplication.class, args);
+	}
+
+}
